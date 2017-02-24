@@ -1,10 +1,16 @@
 Jazz Hands
 ==========
 
-[![Dependency Status](https://gemnasium.com/jkrmr/jazz_hands.svg)](https://gemnasium.com/jkrmr/jazz_hands)
+Forked from (https://github.com/vwall/jazz_hands)](https://github.com/vwall/jazz_hands)
+Which comes from (https://github.com/jkrmr/jazz_hands)](https://github.com/jkrmr/jazz_hands)
+Which comes from the original repo (https://github.com/nixme/jazz_hands)](https://github.com/nixme/jazz_hands)
 
-### NB: This fork is deprecated. For an up-to-date solution, see [Jazz Fingers](https://github.com/plribeiro3000/jazz_fingers).###
+### NB: This fork is a bit outdated
 
+It currently works fine but for more up-to-date solutions, please check:
+
+- [Spirit Hands](https://github.com/steakknife/spirit_hands)
+- [Jazz Fingers](https://github.com/plribeiro3000/jazz_fingers)
 
 Spending hours in the rails console? Spruce it up and show off those
 hard-working hands!
@@ -30,7 +36,7 @@ hard-working hands!
 
 ## Dependencies
 
-Ruby 2.0.0+, Rails 3 or 4. 
+Ruby 2.0.0+, Rails 3, 4 and 5.
 
 
 ## Usage
